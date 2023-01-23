@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+### Hi!
+### I am a PhD student in Economics at University College London
+### You can find my CV [[here]](Documents/Alexander_Clyde_CV.pdf)
 
 * * *
 
-### Here is an unordered list:
+### **Research Fields:**
+ 
+Microeconomic Theory, Bounded Rationality, Behavioural Economics
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### **Email:** 
 
-### And an ordered list:
+alexander.clyde.econ@gmail.com
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* * *
 
-### And a nested list:
+## **Working Papers**
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Proxy variables and Feedback Effects in Decision Making [[Draft Available Here]](Documents/Proxy_Variables_in_Equilibrium___Draft.pdf)
+<details align="justify">
+<summary>Abstract</summary>
+<br>
+When using data, often an analyst only has access to proxies or measurements of the true variables of interest. I propose a framework that models economic decision makers as ‘flawed statisticians’ who assume potentially noisy proxy variables are perfectly measured. Due to feedback from the decision maker's choices to the distribution over variables, a notion of equilibrium is required to close the model. I illustrate the concept with applications to policing and crime, market entry and advertising. In these examples, we see that (1) very small imperfections in the proxy variable leading to large distortions in beliefs (2) monotonicity in the quality of decision in the extent of proxy `noise’ even when without equilibrium effects there is non-monotonicity and (3) controlling for more variables distorts beliefs even when without controls we have correct or approximately correct beliefs.
+</details>
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

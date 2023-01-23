@@ -1,4 +1,52 @@
 ---
 ---
-
 @import "jekyll-theme-minimal";
+
+Body{
+background-color: aliceblue;
+font-family: "Montserrat", Helvetica, "Trebuchet MS", Arial, sans-serif;
+color: black;
+font-weight: 100;
+}
+
+h1{
+color: black;
+font-weight: 500;
+}
+
+h2, h3{
+     color: black;
+     font-weight: 100;
+   }
+
+hr{
+background: black
+}
+
+strong{
+color: black;
+font-weight: 600;
+}
+
+a:link {
+  font-weight: 500;
+  color: blue	 
+}
+
+a:visited {
+  color: blue;
+  font-weight: 500;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+a:active {
+  color: blue;
+  text-decoration: underline;
+  font-weight: 500;
+  
+};
