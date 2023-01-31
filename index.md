@@ -20,7 +20,7 @@ alexander.clyde.econ@gmail.com
 
 ## **Working Papers**
 
-Proxy variables and Feedback Effects in Decision Making [[Draft Available Soon]](Documents/Proxy_Variables_in_Equilibrium___Draft.pdf)
+Proxy variables and Feedback Effects in Decision Making [[Draft Available Here]](Documents/Proxy_Variables_in_Equilibrium___Draft.pdf)
 <details align="justify">
 <summary>Abstract</summary>
 <br>
