@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hi!
-### I am a PhD student in Economics at University College London
+### I am a PhD candidate in Economics at University College London
 ### You can find my CV [[here]](Documents/Alexander_Clyde_CV.pdf)
 
 * * *
