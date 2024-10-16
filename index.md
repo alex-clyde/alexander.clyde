@@ -20,7 +20,7 @@ alexander.clyde.econ@gmail.com
 * * *
 ## **Job Market Paper**
 
-Narrow Inference and Incentive Design [Draft Coming Soon!]
+Narrow Inference and Incentive Design [[Draft]](Documents/JMP_Narrow_Inference.pdf)
 <details align="justify">
 <summary>Abstract</summary>
 <br>
