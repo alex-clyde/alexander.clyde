@@ -15,8 +15,8 @@ Microeconomic Theory, Bounded Rationality, Behavioural Economics
 
 ### **Email:** 
 
-alexander.clyde.econ@gmail.com
-
+alexander.clyde.econ@gmail.com or alex.clyde@ucl.ac.uk
+ 
 * * *
 ## **Job Market Paper**
 
