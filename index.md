@@ -4,7 +4,6 @@ layout: default
 
 ### Hi!
 ### I am a PhD candidate in Economics at University College London
-## I am on the 2024-25 Job Market!
 ### You can find my CV [[here]](Documents/Alexander_Clyde_CV.pdf)
 
 * * *
