@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hi!
-### I am a PhD candidate in Economics at University College London
+### I am an economic theorist. I obtained my PhD from University College London in May 2025
 ### From August 2025, I will be a Post-Doctoral Researcher at Aalto University in Helsinki
 ### You can find my CV [[here]](Documents/Alexander_Clyde_CV.pdf)
 
