@@ -18,7 +18,7 @@ Microeconomic Theory, Bounded Rationality, Behavioural Economics
 <a href="mailto:alexander.clyde.econ@gmail.com">alexander.clyde.econ@gmail.com </a> or <a href="alexander.clyde@aalto.fi">alexander.clyde@aalto.fi </a>
 
 * * *
-## **Job Market Paper**
+## **Working Papers**
 
 Narrow Inference and Incentive Design [[Draft]](Documents/JMP_Narrow_Inference.pdf)
 <details align="justify">
@@ -28,8 +28,6 @@ There is evidence that people struggle to do causal inference in complex multidi
 </details>
 
 <br>
-
-## **Working Papers**
 
 Proxy Variables and Feedback Effects in Decision Making [[Draft]](Documents/Proxy_Variables_in_Equilibrium___Draft.pdf)
 
