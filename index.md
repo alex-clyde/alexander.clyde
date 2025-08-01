@@ -3,8 +3,8 @@ layout: default
 ---
 
 ### Hi!
-### I am an economic theorist. I obtained my PhD from University College London in May 2025
-### From August 2025, I will be a Post-Doctoral Researcher at Aalto University in Helsinki
+### I am a Postdoctoral Researcher at Aalto University School of Business in Helsinki
+### I obtained my PhD from University College London in May 2025
 ### You can find my CV [[here]](Documents/Alexander_Clyde_CV.pdf)
 
 * * *
@@ -33,7 +33,7 @@ There is evidence that people struggle to do causal inference in complex multidi
 
 Proxy Variables and Feedback Effects in Decision Making [[Draft]](Documents/Proxy_Variables_in_Equilibrium___Draft.pdf)
 
-**Revise and Resubmit at Games and Economic Behavior**
+**Accepted at Games and Economic Behavior**
 <details align="justify">
 <summary>Abstract</summary>
 <br>
