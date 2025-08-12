@@ -27,6 +27,8 @@ Narrow Inference and Incentive Design [[Draft]](Documents/JMP_Narrow_Inference.p
 There is evidence that people struggle to do causal inference in complex multidimensional environments. This paper explores the consequences of this in a principal-agent setting. A principal chooses a mechanism to screen an agent. The agent makes choices on multiple dimensions, and infers the effect of each action separately without properly controlling for the other actions. I fully characterize the principal’s optimal mechanism when facing an agent who does such `narrow' inference, and contrast it with their optimal mechanism when the agent is fully rational. I demonstrate when the principal can exploit narrow inference and in what cases they lose out.
 </details>
 
+<br>
+
 ## **Publications**
 
 Proxy Variables and Feedback Effects in Decision Making [[Link]](https://www.sciencedirect.com/science/article/pii/S0899825625001010)
