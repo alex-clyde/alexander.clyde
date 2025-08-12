@@ -42,7 +42,7 @@ When using data, often an analyst only has access to proxies or measurements of 
 
 Proxy Variables and Feedback Effects in Decision Making [[Link]](https://www.sciencedirect.com/science/article/pii/S0899825625001010)
 
-# Games and Economic Behavior
+##### Games and Economic Behavior
 Volume 153, October 2025
 
 <details align="justify">
