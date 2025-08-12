@@ -38,3 +38,15 @@ Proxy Variables and Feedback Effects in Decision Making [[Draft]](Documents/Prox
 When using data, often an analyst only has access to proxies or measurements of the true variables of interest. I propose a framework that models economic decision makers as ‘flawed statisticians’ who assume potentially noisy proxy variables are perfectly measured. Due to feedback from the choices into data, a notion of equilibrium is required to close the model. I illustrate the concept with applications to policing/crime and market entry. In these examples, we see that very small imperfections in the proxy variable can lead to large distortions in beliefs. I show that the set of strategies that can arise as equilibria with arbitrarily close to perfect measurement coincides with a version of Self-Confirming Equilibrium.
 </details>
 
+## **Publications**
+
+Proxy Variables and Feedback Effects in Decision Making [[Link]](https://www.sciencedirect.com/science/article/pii/S0899825625001010)
+
+# Games and Economic Behavior
+Volume 153, October 2025
+
+<details align="justify">
+<summary>Abstract</summary>
+<br>
+When using data, an analyst often only has access to proxies of the true variables. I propose a framework that models decision makers who naively assume potentially noisy proxy variables are perfect measurements. Due to feedback from choices into data, a notion of equilibrium is required to close the model. I illustrate the concept with applications to policing/crime and market entry. In these applications, we see that very small imperfections in the proxy variable can lead to large distortions in beliefs. I show that the set of strategies that can arise as equilibria with arbitrarily close to perfect measurement coincides with a version of Self-Confirming Equilibrium.
+</details>
