@@ -31,7 +31,7 @@ There is evidence that people struggle to do causal inference in complex multidi
 
 ## **Publications**
 
-Proxy Variables and Feedback Effects in Decision Making [[Link]](https://www.sciencedirect.com/science/article/pii/S0899825625001010)
+Proxy Variables and Feedback Effects in Decision Making [[Link]](Documents/Proxy_Variable_Equilibrium.pdf)
 
 ##### Games and Economic Behavior, Volume 153, October 2025, pages 408-429
 
