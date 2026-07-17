@@ -20,11 +20,11 @@ Microeconomic Theory, Bounded Rationality, Behavioural Economics
 * * *
 ## **Working Papers**
 
-Narrow Inference and Incentive Design [[Draft]](Documents/JMP_Narrow_Inference.pdf)
+Narrow Inference and Incentive Design [[Draft]](Documents/JMP_Narrow_Inference.pdf), [[Online Appendix]](Documents/Online_Appendix_Narrow_Inference.pdf)
 <details align="justify">
 <summary>Abstract</summary>
 <br>
-There is evidence that people struggle to do causal inference in complex multidimensional environments. This paper explores the consequences of this in a principal-agent setting. A principal chooses a mechanism to sort different types of agents into choosing different action combinations. The agents make choices on multiple dimensions, and infer the effect of each action separately without properly controlling for the other actions. I fully characterize the principal’s optimal mechanism when facing agents who do such ‘narrow’ inference, and contrast it with their optimal mechanism when the agents are fully rational.
+There is evidence that people struggle to infer how their choices map into outcomes when faced with complex multidimensional choice problems. This paper explores the consequences of this in a principal-agent model. A principal chooses a mechanism to sort different types of agents into choosing different action combinations. The agents make choices on multiple dimensions, and infer the effect of each action separately without properly controlling for the other actions. I characterize the principal’s optimal mechanism when facing agents who do such ‘narrow’ inference, and contrast it with their optimal mechanism when the agents are fully rational.
 </details>
 
 <br>
